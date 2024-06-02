@@ -7,5 +7,8 @@ Download videos from YouTube in various formats (MP4, MP3, etc.)
 Customizable download quality
 
 Easy-to-use 
+
 Supports PlayList Downloads
+
+
 Dependency management via package manager
