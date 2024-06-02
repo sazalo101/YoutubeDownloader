@@ -3,6 +3,9 @@ Welcome to the YouTube Downloader for Linux! This tool allows you to download vi
 
 # Features
 Download videos from YouTube in various formats (MP4, MP3, etc.)
+
 Customizable download quality
+
 Easy-to-use 
+Supports PlayList Downloads
 Dependency management via package manager
