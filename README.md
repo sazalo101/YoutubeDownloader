@@ -12,3 +12,8 @@ Supports PlayList Downloads
 
 
 Dependency management via package manager
+
+
+# requirements
+
+```pip install yt-dlp```
